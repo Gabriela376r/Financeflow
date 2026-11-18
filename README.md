@@ -22,3 +22,7 @@ Como executar
 1. clone este repositório.
 2. Abra a pasta do projeto no Visual Studio Code.
 3. Execute o arquivo index.html Utilizandoa extensão live server
+
+Desenvolvedora 
+Gabriela Cadoni 
+Estudante de Engenharia De Software
